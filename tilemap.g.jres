@@ -5,7 +5,7 @@
         "tilemapTile": true
     },
     "tile1": {
-        "data": "hwQQABAAAAAR4enu7p4OABHh7u7u7g4AEenu7u7uAAAR4e7u7u4AABHh7u7u7gAAEeHu7u7uAACR4enu7u7uABGR7u7u6e4AEeHu7u7ung4R4e7u7u7gDhnh7u7u7u4OEeHu7u7u7g4R6Z7u7p6eDhHh7u7u7u4OEeHu7u7u6QAR4e7u7u7uAA==",
+        "data": "hwQQABAAAAAQ4enu7p4OABHh7u7p7g4AEenu7u7uAAAR6e7u7u4AAJHh7p7u7gAAkeHu7u7uAACR4enu7u7uABGR7u7u6e4AEeHu7u7ung4R4e7u7u7gDhnh7u7u7u4OEeHu7u7u7g4R6Z7u7p6eDhHh7u7u7u4OEeHu7u7u6QAR4e7u7u7uAA==",
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true
     },
@@ -21,6 +21,11 @@
     },
     "tile4": {
         "data": "hwQQABAAAADMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile5": {
+        "data": "hwQQABAAAABERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERA==",
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true
     },
