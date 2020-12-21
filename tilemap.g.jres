@@ -5,7 +5,7 @@
         "tilemapTile": true
     },
     "tile2": {
-        "data": "hwQQABAAAAAREeHu7u7u7hER7u7u7u7uEe7u7e7u7u4R4e7u7u7u7hER7u7u7unuERHu7u7u7u4REZ7u7u7u7hER7u7u3u7uEeHu7u7u7u4R4e7u7u7u7hHu7u7u7u7uEe7u7e7u7u4R7u7u7u7e7hHh7u7u7u7uEeHu7p7u7u4R7u7u7u7u7g==",
+        "data": "hwQQABAAAAAREeHu7u7ODhER7u7u7gwAEe7u7e7u7gAR4e7u7u7uABER7u7u7ukAERHu7u7u7gAREZ7u7u7OABER7u7u3g4AEeHu7u7uDgAR4e7u7u7uABHu7u7u7u4AEe7u7e7u7gwR7u7u7u7eDhHh7u7u7u4OEeHu7p7uDAAR7u7u7u7uDg==",
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true
     },
@@ -31,6 +31,26 @@
     },
     "tile13": {
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgIiERIREhESAiERIREhESICIRIREhESEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile1": {
+        "data": "hwQQABAAAAAzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile6": {
+        "data": "hwQQABAAAADu7u7u7u7u7u7u7u7u7u7u7u7u7e7u7u7u7u7u7u7u7t7u7u7u7unu7u7u7u7u7u7u7p7u7u7u7u7u7u7u3u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7unu7e7u7u7u7u7u7u7e7u7u7u7u7u7u7u7u7p7u7u7u7u7u7u7u7g==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile7": {
+        "data": "hwQQABAAAAAREeHu7u7u7hER7u7u7u7uEe7u7e7u7u4R4e7u7u7u7hER7u7u7unuERHu7u7u7u4REZ7u7u7u7hER7u7u3u7uEeHu7u7u7u4R4e7u7u7u7hHu7u7u7u7uEe7u7e7u7u4R7u7u7u7e7hHh7u7u7u7uEeHu7p7u7u4R7u7u7u7u7g==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile8": {
+        "data": "hwQQABAAAADu7u7u7u7ODu7u7u7u7gwAnu7u7e7u7gDu7u7u7u7uAO7u7u7u7ukA7u7u7u7u7gDu7p7u7u7OAO7u7u7u3g4A3u7u7u7uDgDu7u7u7u7uAO7u7u7u7u4A7u7u7e7u7gzu6e7u7u7eDu7u7u7u7u4O7u7u7p7uDADu7u7u7u7uDg==",
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true
     },
